@@ -1,4 +1,3 @@
-#Iona Pinkerton
->An incredible author
->Incredible stories
+Iona Pinkerton
 
+Incredible stories by an incredible author.
