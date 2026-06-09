@@ -4,18 +4,23 @@
 }
 .heading1 {
     font-size: 50px;
-    color: black;
+    color: rgb(0, 46, 65);
     text-align: center;
     font-family: Garamond, serif;
-    color: rgb(0, 0, 0);
 }
-.link-icons {
-    font-size: 40px;
-    padding-left: 50px;
+.link-words {
+    font-size: 30px;
+    padding-left: 95px;
     padding-right: 50px;
     padding-top: 20px;
     padding-bottom: 0px;
     text-align: center;
+    color: rgb(0, 78, 78);
+    display: inline-block;
+    transition: color .2s ease-in;
+}
+.link-words:hover {
+    color: rgb(0, 0, 0);
 }
 .dusk-raider-cover, .dusk-raider-promo {
     vertical-align: middle;
@@ -34,9 +39,17 @@
 .dusk-raider-promo p {
     display: block;
     font-size: 35px;
-    color: rgb(129, 58, 0);
+    color: rgb(0, 0, 0);
     font-family: Garamond, serif;
     margin: 0;
     padding-left: 20px;
     padding-top: 20px;
+}
+.iona-bio {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    padding: 40px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
 }
