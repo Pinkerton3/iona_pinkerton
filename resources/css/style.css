@@ -1,12 +1,12 @@
 * {
-    font-family:  Garamond, cursive;
+    font-family:  Garamond, serif, times new roman;
     background-color: white;
 }
 .heading1 {
     font-size: 50px;
     color: rgb(0, 46, 65);
     text-align: center;
-    font-family: Garamond, serif;
+    font-family: Garamond, serif, times new roman;
     padding-bottom: 50px;
 }
 .link-words {
@@ -19,6 +19,7 @@
     color: rgb(0, 78, 78);
     display: inline-block;
     transition: color .2s ease-in;
+    font-family: Oldenburg, courier new, monospace;
 }
 .link-words:hover {
     color: rgb(0, 0, 0);
@@ -41,7 +42,6 @@
     display: block;
     font-size: 35px;
     color: rgb(1, 37, 146);
-    font-family: Garamond, serif;
     margin: 0;
     padding-left: 20px;
     padding-top: 40px;
@@ -65,4 +65,19 @@
     border-top: 2px solid lightgrey;
     padding-top: 5px;
     color: rgb(93, 93, 93);
+}
+.intro {
+    font-size: 35px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-bottom: 20px;
+}
+
+.book-cover {
+    width: 300px;
+    height: auto;
+    display: inline-block;
+    border: 1em solid black;
+    margin: 10px;
+    padding: 10px;
 }
