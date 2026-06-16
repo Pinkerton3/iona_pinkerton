@@ -24,6 +24,16 @@
 .link-words:hover {
     color: rgb(0, 0, 0);
 }
+.main-content {
+    font-size: 35px;
+    text-align: left;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    color: rgb(0, 78, 78);
+    font-family: Garamond, serif, times new roman;
+}
 .dusk-raider-cover, .dusk-raider-promo {
     vertical-align: middle;
 }
@@ -95,11 +105,9 @@
     font-weight: 0;
 }
 .read-sample-link {
-    font-size: 30px;
-    color: rgb(8, 0, 255);
+    font-size: 35px;
     text-align: center;
     text-decoration: none;
-    font-family: Cinzel, serif;
 }
 .dusk-raider-sample {
     font-size: 25px;
