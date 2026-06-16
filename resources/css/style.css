@@ -85,9 +85,25 @@
     font-size: 40px;
     text-align: left;
 }
+.coming-soon-h2 {
+    font-size: 40px;
+    text-align: left;
+}
 .coming-soon p {
     font-size: 35px;
     text-align: left;
+    font-weight: 0;
+}
+.read-sample-link {
+    font-size: 30px;
+    color: rgb(8, 0, 255);
+    text-align: center;
+    text-decoration: none;
+    font-family: Cinzel, serif;
+}
+.dusk-raider-sample {
+    font-size: 25px;
     color: rgb(0, 0, 0);
-    font-weight: bold;
+    font-family: Oldenburg, courier new, monospace;
+    padding-left: 40px;
 }

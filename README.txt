@@ -1,3 +1,3 @@
-Iona Pinkerton
+<h1>Iona Pinkerton</h1>
 
-Incredible stories by an incredible author.
+<p>Incredible stories by an incredible author.</p>
